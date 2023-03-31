@@ -7,5 +7,5 @@ Shunyao Luan1,3#, Xiangyang Yu1#, Shuang Lei1, Chi Ma2, Xiao Wang2, Xudong Xue3,
 3 Department of Radiation Oncology, Hubei Cancer Hospital, TongJi Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, China  
 4 the Institute of Biomedical and Health Engineering, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China  
 
-(https://github.com/lsy888898/AM-Net/blob/main/Figure%201.tif)
+!(https://github.com/lsy888898/AM-Net/blob/main/Figure%201.tif)
 
